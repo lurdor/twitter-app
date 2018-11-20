@@ -1,0 +1,4 @@
+oauth2
+psycopg2
+flask==1.0.2
+requests
